@@ -1,2 +1,2 @@
 # data-structures
-Java Data Structures
+Java Data Structures for personal reference
